@@ -1,6 +1,6 @@
 # Efficient-Named-Entity-Recognizer-using-Structured-Perceptron-Viterbi-and-Beam-Search-Python
 
-This script uses Viterbi Search and Beam Search to accelerate the process of training the Perceptron
+This script employs Dynamic Programming algorithms such as, Viterbi Search and Beam Search to accelerate the process of training the Perceptron
 
 # Running the Script
 
